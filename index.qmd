@@ -63,8 +63,6 @@ I'm a [Genomic Sciences](https://www.lcg.unam.mx) undergraduate student at the [
 
 I enjoy Python and Julia coding, specially for analyzing omic data sets with aim of capturing biologically and statistically relevant patterns.
 
-:::
-
 ## 💻 Research experience
 
 |  |  |
@@ -80,6 +78,8 @@ I enjoy Python and Julia coding, specially for analyzing omic data sets with aim
 |---|---:|
 | **National Autonomous University of Mexico (UNAM), Morelos, Mexico** <br> B.Sc. in [Genomic Sciences](https://www.lcg.unam.mx). | **2024 – Present** <br> 📍 🇲🇽 |
 | **National Autonomous University of Mexico (UNAM), Mexico City, Mexico** <br> B.Sc. in [Biology](https://www.fciencias.unam.mx/estudiar-en-ciencias/estudios/licenciaturas/biologia). | **2023 – 2024** <br> 📍 🇲🇽 |
+
+:::
 
 <!-- Delete the following section and delete corresponding lines in the yaml part to remove the recent posts -->
 ## Recent Posts
