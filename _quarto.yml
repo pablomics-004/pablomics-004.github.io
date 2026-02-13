@@ -2,29 +2,24 @@ project:
   type: website
   output-dir: docs
 
-# Meta
-description-meta: "Personal academic website of Pablo Salazar-Mendez, Genomic sciences undergraduate student"
-author-meta: "Pablo Salazar-Mendez"
+author: "Pablo Salazar-Mendez"
 
 website:
   title: "Pablo Salazar-Mendez"
   image: "https://quarto.org/quarto.png"
-  description: "Pablo Salazar-Mendez academic website"
- 
-  navbar:
-    background: dark  # You can change the background color here
+  description: "Personal academic website of Pablo Salazar-Mendez, Genomic sciences undergraduate student"
 
-    left:   # You can comment out all navigation items here if you just like to keep the index page only
-#      - text: Home
-#        href: index.qmd
+  navbar:
+    background: dark
+    left:
       - text: About
         menu:
           - text: News
             href: posts.qmd#category=news
           - text: Events
-            href: posts.qmd#category=event      
+            href: posts.qmd#category=event
           - text: Contact
-            href: contact.qmd             
+            href: contact.qmd
       - text: Research
         menu:
           - text: List of Publications
@@ -32,27 +27,28 @@ website:
           - text: Selected Papers
             href: posts.qmd#category=paper
           - text: Grants
-            href: projects.qmd                                
-      - text: Teaching # Comment the Teaching part out to remove the Teaching page
+            href: projects.qmd
+      - text: Teaching
         href: teaching.qmd
       - text: Outreach
-        menu:        
-        - text: Presentations
-          href: posts.qmd#category=presentation
+        menu:
+          - text: Presentations
+            href: posts.qmd#category=presentation
 
-    right: 
+    right:
       - text: CV
-        href: files/nsf-biosketch.pdf
+        href: https://docs.google.com/document/d/1jicPtkpFpaje2KxcX6Q22p1kb-Ui2l33lbsNbGqBdqQ/export?format=pdf
+        target: _blank
       - icon: github
         href: https://github.com/pablomics-004/pablomics-004.github.io
         target: _blank
       - text: "{{< fa brands bluesky >}}"
         href: https://bsky.app
-        target: _blank      
+        target: _blank
       - icon: rss
         href: posts.xml
         target: _blank
-  
+
   page-navigation: true
   
   page-footer: 
@@ -98,14 +94,6 @@ format:
     theme: cosmo
     css: styles.css
     toc: true
-    footnotes-hover: true
-    code-copy: true
-    code-link: true
-    code-overflow: wrap
-    fig-align: center
-    link-external-icon: false
-    link-external-newwindow: true
-    email-obfuscation: javascript
-    link-external-filter: '^(?:http:|https:)\/\/drganghe\.github\.io\/custom'
+    title-block-banner: false
     include-in-header: "files/includes/_academic.qmd"
 
