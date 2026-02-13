@@ -1,0 +1,44 @@
+/* css styles */
+
+.cv-title {
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+  font-size: 2rem;
+  font-weight: 800;
+  margin: 1.2rem 0 1rem 0;
+}
+
+.cv-item {
+  display: flex;
+  justify-content: space-between;
+  gap: 1.5rem;
+  padding: 0.9rem 0;
+  border-top: 1px solid rgba(0,0,0,0.10);
+}
+
+.cv-org {
+  font-weight: 800;
+  font-size: 1.15rem;
+  line-height: 1.25;
+}
+
+.cv-role {
+  margin-top: 0.35rem;
+  font-size: 1.05rem;
+}
+
+.cv-right {
+  text-align: right;
+  white-space: nowrap;
+}
+
+.cv-dates {
+  font-size: 1.05rem;
+  font-weight: 600;
+}
+
+.cv-meta {
+  margin-top: 0.35rem;
+  opacity: 0.75;
+}
