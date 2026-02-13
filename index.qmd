@@ -19,10 +19,14 @@ about:
     - icon: envelope
       text: E-mail
       href: mailto:pablosm@lcg.unam.mx    
-#    - icon: linkedin
-#      text: LinkedIn
-#      href: https://linkedin.com
-#      target: _blank
+   - icon: bluesky
+     text: Bluesky
+     href: https://bsky.app/profile/pablomics-004.bsky.social
+     target: _blank
+  #  - icon: twitter
+  #    text: Twitter
+  #    href: https://x.com/PabloSalazarMe2
+  #    target: _blank
 #    - text: "{{< ai orcid >}} ORCID"   # use academic icons, "" are needed, you also need to install the fontawesome extension
 #     href: https://orcid.org
 #      target: _blank
