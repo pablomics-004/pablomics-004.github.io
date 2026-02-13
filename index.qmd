@@ -1,5 +1,6 @@
 ---
 title: "Pablo Salazar-Mendez"
+from: markdown+raw_html
 description-meta: "Academic website for Pablo Salazar-Mendez, Genomic Sciences undergraduate student"
 image: "files/images/placeholder4.JPG"
 page-navigation: false
