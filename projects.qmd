@@ -25,6 +25,7 @@ listing:
     - projects.yml 
 ---
 
+Coming soon!
 
 :::{#projects}
 :::
