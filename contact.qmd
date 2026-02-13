@@ -8,17 +8,13 @@ title-block-banner: false
 
 **Quarto Academic**
 
-School
+[Center for Genomic Sciences](https://www.ccg.unam.mx/en/)
 
-College
+National Autonomous University of Mexico (UNAM)
 
-University
+Address: Av. Universidad s/n Col. Chamilpa 62210, Cuernavaca, Mor.
 
-Address: 
-
-Phone: 
-
-E-mail: 
+E-mail: mailto:pablosm@lcg.unam.mx
 
 
 </center>
