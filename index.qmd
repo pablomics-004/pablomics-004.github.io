@@ -1,8 +1,7 @@
 ---
 title: "Pablo Salazar-Mendez"
-from: markdown+raw_html
 description-meta: "Academic website for Pablo Salazar-Mendez, Genomic Sciences undergraduate student"
-image: "files/images/placeholder4.JPG"
+image: "./files/images/placeholder4.JPG"
 page-navigation: false
 toc: false
 #sidebar: false
@@ -64,92 +63,23 @@ I'm a [Genomic Sciences](https://www.lcg.unam.mx) undergraduate student at the [
 
 I enjoy Python and Julia coding, specially for analyzing omic data sets with aim of capturing biologically and statistically relevant patterns.
 
-<!-- ## Research experience -->
-
-<div class="cv-section">
-  <h2 class="cv-title">💻 Research experience</h2>
-
-  <div class="cv-item">
-    <div class="cv-left">
-      <div class="cv-org">Center for Genomic Sciences (CCG), Morelos, Mexico</div>
-      <div class="cv-role">
-  Undergraduate researcher in the <a href="http://freyrelab.org/en/">Computational Systems Biology Lab</a>
-  of <a href="https://www.ccg.unam.mx/en/julio-augusto-freyre-gonzalez/">Dr. Julio A. Freyre-Gonzalez</a>.
-</div>
-
-    </div>
-    <div class="cv-right">
-      <div class="cv-dates">Dec 2024 – Present</div>
-      <div class="cv-meta">📍 🇲🇽</div>
-    </div>
-  </div>
-
-  <div class="cv-item">
-    <div class="cv-left">
-      <div class="cv-org">Institute of Biotechnology (IBT), Morelos, Mexico</div>
-      <div class="cv-role">Undergraduate researcher in the Plant-microorganism Interaction group of Dr. Luis Cardenas-Torres</div>
-    </div>
-    <div class="cv-right">
-      <div class="cv-dates">Dec 2025 – Present</div>
-      <div class="cv-meta">📍 🇲🇽</div>
-    </div>
-  </div>
-
-  <div class="cv-item">
-    <div class="cv-left">
-      <div class="cv-org">International Laboratory for Human Genome Research (LIIGH), Queretaro, Mexico</div>
-      <div class="cv-role">Observer in the <a href="https://mgschiavon.org">Evolutionary Systems Biology Lab</a> of <a href="https://liigh.unam.mx/profile/dr-mariana-gomez-schiavon/">Dr. Mariana Gomez-Schiavon</a></div>
-    </div>
-    <div class="cv-right">
-      <div class="cv-dates">Jan 2025 – Aug 2025</div>
-      <div class="cv-meta">📍 🇲🇽</div>
-    </div>
-  </div>
-
-  <div class="cv-item">
-    <div class="cv-left">
-      <div class="cv-org">School of Chemistry (UNAM), Mexico City, Mexico</div>
-      <div class="cv-role">Undergraduate researcher in the Organelar Genomics Lab of Dr. Miguel Palomar-Olguin</div>
-    </div>
-    <div class="cv-right">
-      <div class="cv-dates">Jan 2025 – Aug 2025</div>
-      <div class="cv-meta">📍 🇲🇽</div>
-    </div>
-  </div>
-
-</div>
-
-<!-- ## Education -->
-
-<div class="cv-section">
-  <h2 class="cv-title">🎓 Education</h2>
-
-  <div class="cv-item">
-    <div class="cv-left">
-      <div class="cv-org">National Autonomous University of Mexico (UNAM), Morelos, Mexico</div>
-      <div class="cv-role">B.Sc. in <a href="https://www.lcg.unam.mx">Genomic Sciences</a></div>
-    </div>
-    <div class="cv-right">
-      <div class="cv-dates">2024 – Present</div>
-      <div class="cv-meta">📍 🇲🇽</div>
-    </div>
-  </div>
-
-  <div class="cv-item">
-    <div class="cv-left">
-      <div class="cv-org">National Autonomous University of Mexico (UNAM), Mexico City, Mexico</div>
-      <div class="cv-role">B.Sc. in <a href="https://www.fciencias.unam.mx/estudiar-en-ciencias/estudios/licenciaturas/biologia">Biology</a></div>
-    </div>
-    <div class="cv-right">
-      <div class="cv-dates">2023 – 2024</div>
-      <div class="cv-meta">📍 🇲🇽</div>
-    </div>
-  </div>
-
-</div>
-
 :::
 
+## 💻 Research experience
+
+|  |  |
+|---|---:|
+| **Center for Genomic Sciences (CCG), Morelos, Mexico**  <br> Undergraduate researcher in the [Computational Systems Biology Lab](http://freyrelab.org/en/) of [Dr. Julio A. Freyre-Gonzalez](https://www.ccg.unam.mx/en/julio-augusto-freyre-gonzalez/). | **Dec 2024 – Present** <br> 📍 🇲🇽 |
+| **Institute of Biotechnology (IBT), Morelos, Mexico** <br> Undergraduate researcher in the Plant-microorganism Interaction group of Dr. Luis Cardenas-Torres. | **Dec 2025 – Present** <br> 📍 🇲🇽 |
+| **International Laboratory for Human Genome Research (LIIGH), Queretaro, Mexico** <br> Observer in the [Evolutionary Systems Biology Lab](https://mgschiavon.org) of [Dr. Mariana Gomez-Schiavon](https://liigh.unam.mx/profile/dr-mariana-gomez-schiavon/). | **Jan 2025 – Aug 2025** <br> 📍 🇲🇽 |
+| **School of Chemistry (UNAM), Mexico City, Mexico** <br> Undergraduate researcher in the Organelar Genomics Lab of Dr. Miguel Palomar-Olguin. | **Jan 2025 – Aug 2025** <br> 📍 🇲🇽 |
+
+## 🎓 Education
+
+|  |  |
+|---|---:|
+| **National Autonomous University of Mexico (UNAM), Morelos, Mexico** <br> B.Sc. in [Genomic Sciences](https://www.lcg.unam.mx). | **2024 – Present** <br> 📍 🇲🇽 |
+| **National Autonomous University of Mexico (UNAM), Mexico City, Mexico** <br> B.Sc. in [Biology](https://www.fciencias.unam.mx/estudiar-en-ciencias/estudios/licenciaturas/biologia). | **2023 – 2024** <br> 📍 🇲🇽 |
 
 <!-- Delete the following section and delete corresponding lines in the yaml part to remove the recent posts -->
 ## Recent Posts
