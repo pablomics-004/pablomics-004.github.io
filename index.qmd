@@ -19,10 +19,10 @@ about:
     - icon: envelope
       text: E-mail
       href: mailto:pablosm@lcg.unam.mx    
-   - icon: bluesky
-     text: Bluesky
-     href: https://bsky.app/profile/pablomics-004.bsky.social
-     target: _blank
+    - icon: bluesky
+      text: Bluesky
+      href: https://bsky.app/profile/pablomics-004.bsky.social
+      target: _blank
   #  - icon: twitter
   #    text: Twitter
   #    href: https://x.com/PabloSalazarMe2
