@@ -1,7 +1,7 @@
 ---
 title: "Pablo Salazar-Mendez"
 description-meta: "Academic website for Pablo Salazar-Mendez, Genomic Sciences undergraduate student"
-image: "./files/images/placeholder4.JPG"
+image: "./files/images/placeholder4.jpg"
 page-navigation: false
 toc: false
 #sidebar: false
@@ -88,4 +88,4 @@ Coming soon...
 :::{#recent-posts}
 :::
 
-<p align="right">[All Posts »](/posts.qmd)</p>
+<!-- <p align="right">[All Posts »](/posts.qmd)</p> -->

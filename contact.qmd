@@ -1,12 +1,12 @@
 ---
 title: "Contact"
-description-meta: "Reach out to me with questions and comments"
+description-meta: "Reach out to me 😃"
 title-block-banner: false
 ---
 
-<center>
+<left>
 
-**Quarto Academic**
+**Genomic Sciences undergraduate student**
 
 [Center for Genomic Sciences](https://www.ccg.unam.mx/en/)
 
@@ -14,7 +14,7 @@ National Autonomous University of Mexico (UNAM)
 
 Address: Av. Universidad s/n Col. Chamilpa 62210, Cuernavaca, Mor.
 
-E-mail: mailto:pablosm@lcg.unam.mx
+E-mail: [pablosm@lcg.unam.mx](mailto:pablosm@lcg.unam.mx)
 
 
 </center>
